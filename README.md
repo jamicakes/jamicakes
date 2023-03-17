@@ -1,4 +1,7 @@
 ### Hi there 👋
+😄 Pronouns: she/her
+🔭 I’m currently working on a back end dev bootcamp in order to broaden my horizons. 
+🤔 I’m looking for a job as a project manager with a company that betters the community they are apart of or the global economy. 
 
 <!--
 **jamicakes/jamicakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
