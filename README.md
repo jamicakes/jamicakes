@@ -1,11 +1,12 @@
 ### Hi there 👋
-break
+
 😄 Pronouns: she/her 
 
-break 
+ 
 
 🔭 I’m currently working on a back end dev bootcamp in order to broaden my horizons. 
-break
+
+
 🤔 I’m looking for a job as a project manager with a company that betters the community they are apart of or the global economy. 
 
 <!--
